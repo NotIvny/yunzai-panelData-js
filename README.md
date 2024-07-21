@@ -1,5 +1,5 @@
 # yunzai-panelData-js
-将个人面板数据导入到另一个Bot上，分离自[ark-plugin](https://github.com/NotIvny/ark-plugin)
+将个人面板数据导入到另一个Bot上，不需要在换Bot后在游戏内挨个换展示角色了，js分离自[ark-plugin](https://github.com/NotIvny/ark-plugin)
 ## 使用方法
 将插件克隆到./plugins/example目录下
 
