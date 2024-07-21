@@ -6,7 +6,7 @@ export class panelData extends plugin {
             name: '导出面板数据',
             dsc: '导出面板数据',
             event: 'message',
-            priority: -89001,
+            priority: 0,
             rule: [
                 {
                     reg: '#(星铁|原神)?(导出面板数据)(.*)',
