@@ -1,6 +1,6 @@
 import { getTargetUid } from '../miao-plugin/apps/profile/ProfileCommon.js'
 import fs from 'fs'
-export class characterRank extends plugin {
+export class panelData extends plugin {
     constructor() {
         super({
             name: '导出面板数据',
